@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Angular Init</title>
+<script type="text/javascript" src="../script/angular.min.js"></script>
+<script type="text/javascript" src="../script/appConfig.js"></script>
+<script type="text/javascript" src="../script/appCtrl.js"></script>
+
+</head>
+<body ng-app="myApp" ng-init="firstName='tom'">
+<div style="margin-left400px; font-size: 20px; font-weight: bold; color: blue;">
+
+FirstName: {{firstName}}
+
+</div>
+</body>
+</html>

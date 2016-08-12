@@ -1,0 +1,15 @@
+package org.cap.dao;
+
+import java.util.List;
+
+import org.cap.model.Employee;
+
+public class EmployeeDaoImpl implements EmployeeDao{
+
+	@Override
+	public List<Employee> getAllEmployees() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

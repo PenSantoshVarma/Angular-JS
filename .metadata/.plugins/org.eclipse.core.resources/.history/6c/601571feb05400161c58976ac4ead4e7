@@ -1,0 +1,36 @@
+package org.cap.dao;
+
+import java.sql.Connection;
+import java.sql.DriverManager;
+import java.util.List;
+
+import org.cap.model.Employee;
+
+public class EmployeeDaoImpl implements EmployeeDao{
+
+	@Override
+	public List<Employee> getAllEmployees() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+	
+	public Connection getMYSQLConnection(){
+		
+		Connection connection=null;
+		
+		try {
+			Class.forName("com.mysql.jdbc.Driver");
+			
+			DriverManager.getConnection("jdbc:mysql://localhost:3306/cap","root","admin");
+			
+		} catch (ClassNotFoundException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+		
+		
+		return connection;
+		
+	}
+
+}

@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Angular Init</title>
+<script type="text/javascript" src="../script/angular.min.js"></script>
+<script type="text/javascript" src="../script/appConfig.js"></script>
+<script type="text/javascript" src="../script/appCtrl.js"></script>
+
+</head>
+<body ng-app="myApp" ng-init="firstName='tom';lastName='Jerry';weekdays=['sun','mon','tue','wed','thr','fri','sat']">
+<div style="margin-left:400px; font-size: 20px; font-weight: bold; color: blue;">
+
+FirstName: {{firstName}} <br>
+LastName: {{lastName}}
+<br>
+
+WeedEnd : {{weekdays[0] }}
+
+<ul>
+	<li ng-repeat='day in weekdays'>
+	{{day}}
+	</li>
+</ul>
+
+
+
+
+</div>
+</body>
+</html>

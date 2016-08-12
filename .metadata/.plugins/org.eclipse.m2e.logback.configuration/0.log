@@ -1,0 +1,1179 @@
+2016-07-28 10:18:31,834 [Worker-3] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Day-Jul-28-AngularJs\pom.xml
+2016-07-28 10:18:34,190 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: org.cap.demo:Day-Jul-28-AngularJs:0.0.1-SNAPSHOT @ D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Day-Jul-28-AngularJs\pom.xml.
+2016-07-28 10:18:35,141 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Day-Jul-28-AngularJs/src/main/java
+2016-07-28 10:18:35,141 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Day-Jul-28-AngularJs/src/main/resources
+2016-07-28 10:18:35,141 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Day-Jul-28-AngularJs/src/test/java
+2016-07-28 10:18:35,235 [Worker-14] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: org.cap.demo:Day-Jul-28-AngularJs:0.0.1-SNAPSHOT @ D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Day-Jul-28-AngularJs\pom.xml.
+2016-07-28 10:18:39,057 [Worker-3] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Project import completed 7 sec
+2016-07-28 10:18:44,501 [Worker-17] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: org.cap.demo:Day-Jul-28-AngularJs:0.0.1-SNAPSHOT @ D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Day-Jul-28-AngularJs\pom.xml.
+2016-07-28 10:18:44,595 [Worker-17] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 10:18:44,611 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-28 10:18:44,611 [Worker-17] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 10:18:44,611 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Day-Jul-28-AngularJs\src\test\resources
+2016-07-28 10:19:16,500 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 10:19:16,531 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-28 10:19:16,531 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 10:19:16,546 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Day-Jul-28-AngularJs\src\test\resources
+2016-07-28 10:19:23,912 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 10:19:23,912 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-28 10:19:23,912 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 10:19:23,912 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Day-Jul-28-AngularJs\src\test\resources
+2016-07-28 10:19:29,075 [Worker-20] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2016-07-28 10:19:29,153 [Worker-20] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: org.cap.demo:Day-Jul-28-AngularJs:0.0.1-SNAPSHOT @ D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Day-Jul-28-AngularJs\pom.xml.
+2016-07-28 10:19:29,231 [Worker-20] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Day-Jul-28-AngularJs/src/main/java
+2016-07-28 10:19:29,231 [Worker-20] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Day-Jul-28-AngularJs/src/main/resources
+2016-07-28 10:19:29,231 [Worker-20] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Day-Jul-28-AngularJs/src/test/java
+2016-07-28 10:19:29,481 [Worker-20] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for Day-Jul-28-AngularJs
+2016-07-28 10:19:29,497 [Worker-20] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2016-07-28 10:19:29,699 [Worker-20] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: org.cap.demo:Day-Jul-28-AngularJs:0.0.1-SNAPSHOT @ D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Day-Jul-28-AngularJs\pom.xml.
+2016-07-28 10:19:29,777 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 10:19:29,777 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-28 10:19:29,777 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 10:19:29,777 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Day-Jul-28-AngularJs\src\test\resources
+2016-07-28 10:20:40,543 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 10:20:40,559 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-28 10:20:40,559 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 10:20:40,559 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Day-Jul-28-AngularJs\src\test\resources
+2016-07-28 10:20:59,203 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 10:20:59,203 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-28 10:20:59,218 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 10:20:59,218 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Day-Jul-28-AngularJs\src\test\resources
+2016-07-28 10:21:28,782 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 10:21:28,782 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-28 10:21:28,782 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 10:21:28,782 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Day-Jul-28-AngularJs\src\test\resources
+2016-07-28 10:21:40,346 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 10:21:40,346 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-28 10:21:40,361 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 10:21:40,361 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Day-Jul-28-AngularJs\src\test\resources
+2016-07-28 10:22:01,345 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 10:22:01,345 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-28 10:22:01,345 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 10:22:01,361 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Day-Jul-28-AngularJs\src\test\resources
+2016-07-28 10:22:02,375 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 10:22:02,391 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-28 10:22:02,391 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 10:22:02,391 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Day-Jul-28-AngularJs\src\test\resources
+2016-07-28 10:22:38,491 [Worker-17] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 10:22:38,491 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-28 10:22:38,491 [Worker-17] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 10:22:38,491 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Day-Jul-28-AngularJs\src\test\resources
+2016-07-28 10:23:01,721 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 10:23:01,721 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-28 10:23:01,721 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 10:23:01,721 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Day-Jul-28-AngularJs\src\test\resources
+2016-07-28 10:23:10,457 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 10:23:10,457 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-28 10:23:10,457 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 10:23:10,457 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Day-Jul-28-AngularJs\src\test\resources
+2016-07-28 10:24:48,738 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 10:24:48,738 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-28 10:24:48,738 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 10:24:48,738 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Day-Jul-28-AngularJs\src\test\resources
+2016-07-28 10:25:07,726 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 10:25:07,726 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-28 10:25:07,726 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 10:25:07,726 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Day-Jul-28-AngularJs\src\test\resources
+2016-07-28 10:25:13,326 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 10:25:13,326 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-28 10:25:13,326 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 10:25:13,342 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Day-Jul-28-AngularJs\src\test\resources
+2016-07-28 10:25:24,371 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 10:25:24,371 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-28 10:25:24,371 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 10:25:24,371 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Day-Jul-28-AngularJs\src\test\resources
+2016-07-28 10:26:03,250 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 10:26:03,250 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-28 10:26:03,250 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 10:26:03,250 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Day-Jul-28-AngularJs\src\test\resources
+2016-07-28 10:27:58,585 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 10:27:58,585 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-28 10:27:58,585 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 10:27:58,585 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Day-Jul-28-AngularJs\src\test\resources
+2016-07-28 10:28:45,482 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 10:28:45,482 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-28 10:28:45,482 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 10:28:45,482 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Day-Jul-28-AngularJs\src\test\resources
+2016-07-28 10:29:10,881 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 10:29:10,881 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-28 10:29:10,881 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 10:29:10,881 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Day-Jul-28-AngularJs\src\test\resources
+2016-07-28 10:30:31,287 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 10:30:31,287 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-28 10:30:31,287 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 10:30:31,287 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Day-Jul-28-AngularJs\src\test\resources
+2016-07-28 10:31:10,057 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 10:31:10,057 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-28 10:31:10,057 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 10:31:10,057 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Day-Jul-28-AngularJs\src\test\resources
+2016-07-28 10:34:04,340 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 10:34:04,340 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-28 10:34:04,340 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 10:34:04,340 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Day-Jul-28-AngularJs\src\test\resources
+2016-07-28 10:34:11,922 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 10:34:11,922 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-28 10:34:11,922 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 10:34:11,922 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Day-Jul-28-AngularJs\src\test\resources
+2016-07-28 10:34:59,913 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 10:34:59,913 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-28 10:34:59,913 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 10:34:59,929 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Day-Jul-28-AngularJs\src\test\resources
+2016-07-28 10:35:11,442 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 10:35:11,442 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-28 10:35:11,442 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 10:35:11,442 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Day-Jul-28-AngularJs\src\test\resources
+2016-07-28 10:35:22,299 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 10:35:22,299 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-28 10:35:22,299 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 10:35:22,299 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Day-Jul-28-AngularJs\src\test\resources
+2016-07-28 10:35:33,406 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 10:35:33,406 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-28 10:35:33,406 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 10:35:33,406 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Day-Jul-28-AngularJs\src\test\resources
+2016-07-28 10:35:38,180 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 10:35:38,180 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-28 10:35:38,180 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 10:35:38,180 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Day-Jul-28-AngularJs\src\test\resources
+2016-07-28 10:35:44,857 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 10:35:44,857 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-28 10:35:44,857 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 10:35:44,857 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Day-Jul-28-AngularJs\src\test\resources
+2016-07-28 10:36:26,384 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 10:36:26,384 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-28 10:36:26,384 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 10:36:26,384 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Day-Jul-28-AngularJs\src\test\resources
+2016-07-28 10:37:36,293 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 10:37:36,293 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-28 10:37:36,293 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 10:37:36,293 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Day-Jul-28-AngularJs\src\test\resources
+2016-07-28 10:37:44,311 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 10:37:44,311 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-28 10:37:44,311 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 10:37:44,311 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Day-Jul-28-AngularJs\src\test\resources
+2016-07-28 10:37:51,019 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 10:37:51,019 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-28 10:37:51,019 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 10:37:51,019 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Day-Jul-28-AngularJs\src\test\resources
+2016-07-28 10:38:06,869 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 10:38:06,869 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-28 10:38:06,869 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 10:38:06,869 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Day-Jul-28-AngularJs\src\test\resources
+2016-07-28 10:38:12,079 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 10:38:12,079 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-28 10:38:12,079 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 10:38:12,079 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Day-Jul-28-AngularJs\src\test\resources
+2016-07-28 10:38:17,040 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 10:38:17,040 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-28 10:38:17,040 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 10:38:17,040 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Day-Jul-28-AngularJs\src\test\resources
+2016-07-28 10:38:22,656 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 10:38:22,656 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-28 10:38:22,656 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 10:38:22,656 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Day-Jul-28-AngularJs\src\test\resources
+2016-07-28 10:39:25,322 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 10:39:25,322 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-28 10:39:25,322 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 10:39:25,322 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Day-Jul-28-AngularJs\src\test\resources
+2016-07-28 10:39:39,908 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 10:39:39,908 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-28 10:39:39,908 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 10:39:39,908 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Day-Jul-28-AngularJs\src\test\resources
+2016-07-28 10:40:25,304 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 10:40:25,304 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-28 10:40:25,304 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 10:40:25,304 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Day-Jul-28-AngularJs\src\test\resources
+2016-07-28 10:40:32,979 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 10:40:32,979 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-28 10:40:32,979 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 10:40:32,979 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Day-Jul-28-AngularJs\src\test\resources
+2016-07-28 10:40:39,141 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 10:40:39,141 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-28 10:40:39,141 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 10:40:39,141 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Day-Jul-28-AngularJs\src\test\resources
+2016-07-28 10:40:41,294 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 10:40:41,294 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-28 10:40:41,294 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 10:40:41,294 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Day-Jul-28-AngularJs\src\test\resources
+2016-07-28 10:41:04,850 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 10:41:04,850 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-28 10:41:04,850 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 10:41:04,850 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Day-Jul-28-AngularJs\src\test\resources
+2016-07-28 10:41:19,888 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 10:41:19,888 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-28 10:41:19,888 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 10:41:19,888 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Day-Jul-28-AngularJs\src\test\resources
+2016-07-28 10:41:25,301 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 10:41:25,301 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-28 10:41:25,301 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 10:41:25,301 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Day-Jul-28-AngularJs\src\test\resources
+2016-07-28 10:41:59,587 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 10:41:59,587 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-28 10:41:59,587 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 10:41:59,587 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Day-Jul-28-AngularJs\src\test\resources
+2016-07-28 10:42:05,979 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 10:42:05,979 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-28 10:42:05,979 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 10:42:05,979 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Day-Jul-28-AngularJs\src\test\resources
+2016-07-28 10:42:27,616 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 10:42:27,616 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-28 10:42:27,616 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 10:42:27,616 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Day-Jul-28-AngularJs\src\test\resources
+2016-07-28 10:42:47,662 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 10:42:47,662 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-28 10:42:47,662 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 10:42:47,662 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Day-Jul-28-AngularJs\src\test\resources
+2016-07-28 10:43:24,556 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 10:43:24,556 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-28 10:43:24,556 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 10:43:24,556 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Day-Jul-28-AngularJs\src\test\resources
+2016-07-28 10:43:25,664 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 10:43:25,664 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-28 10:43:25,664 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 10:43:25,664 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Day-Jul-28-AngularJs\src\test\resources
+2016-07-28 10:43:27,707 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 10:43:27,707 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-28 10:43:27,707 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 10:43:27,707 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Day-Jul-28-AngularJs\src\test\resources
+2016-07-28 10:44:22,151 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 10:44:22,151 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-28 10:44:22,151 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 10:44:22,167 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Day-Jul-28-AngularJs\src\test\resources
+2016-07-28 10:45:21,093 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 10:45:21,093 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-28 10:45:21,093 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 10:45:21,093 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Day-Jul-28-AngularJs\src\test\resources
+2016-07-28 10:45:30,609 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 10:45:30,609 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-28 10:45:30,609 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 10:45:30,609 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Day-Jul-28-AngularJs\src\test\resources
+2016-07-28 10:46:39,620 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 10:46:39,620 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-28 10:46:39,620 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 10:46:39,620 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Day-Jul-28-AngularJs\src\test\resources
+2016-07-28 10:46:42,412 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 10:46:42,412 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-28 10:46:42,412 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 10:46:42,412 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Day-Jul-28-AngularJs\src\test\resources
+2016-07-28 10:46:46,889 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 10:46:46,889 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-28 10:46:46,889 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 10:46:46,889 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Day-Jul-28-AngularJs\src\test\resources
+2016-07-28 10:46:56,686 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 10:46:56,686 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-28 10:46:56,686 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 10:46:56,686 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Day-Jul-28-AngularJs\src\test\resources
+2016-07-28 10:47:31,427 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 10:47:31,427 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-28 10:47:31,427 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 10:47:31,427 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Day-Jul-28-AngularJs\src\test\resources
+2016-07-28 10:53:59,030 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 10:53:59,030 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-28 10:53:59,030 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 10:53:59,045 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Day-Jul-28-AngularJs\src\test\resources
+2016-07-28 11:44:53,252 [Worker-54] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 11:44:53,376 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-28 11:44:53,376 [Worker-54] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 11:44:53,376 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Day-Jul-28-AngularJs\src\test\resources
+2016-07-28 11:45:12,060 [Worker-54] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 11:45:12,060 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-28 11:45:12,060 [Worker-54] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 11:45:12,060 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Day-Jul-28-AngularJs\src\test\resources
+2016-07-28 11:45:25,960 [Worker-54] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 11:45:25,960 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-28 11:45:25,960 [Worker-54] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 11:45:25,960 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Day-Jul-28-AngularJs\src\test\resources
+2016-07-28 11:46:22,387 [Worker-60] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 11:46:22,387 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-28 11:46:22,387 [Worker-60] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 11:46:22,387 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Day-Jul-28-AngularJs\src\test\resources
+2016-07-28 11:46:35,694 [Worker-54] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 11:46:35,694 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-28 11:46:35,694 [Worker-54] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 11:46:35,694 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Day-Jul-28-AngularJs\src\test\resources
+2016-07-28 11:47:12,738 [Worker-56] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 11:47:12,738 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-28 11:47:12,738 [Worker-56] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 11:47:12,738 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Day-Jul-28-AngularJs\src\test\resources
+2016-07-28 11:47:31,646 [Worker-56] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 11:47:31,646 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-28 11:47:31,646 [Worker-56] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 11:47:31,646 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Day-Jul-28-AngularJs\src\test\resources
+2016-07-28 11:47:37,941 [Worker-56] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 11:47:37,941 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-28 11:47:37,941 [Worker-56] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 11:47:37,941 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Day-Jul-28-AngularJs\src\test\resources
+2016-07-28 11:47:49,903 [Worker-54] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 11:47:49,903 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-28 11:47:49,903 [Worker-54] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 11:47:49,903 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Day-Jul-28-AngularJs\src\test\resources
+2016-07-28 11:47:58,389 [Worker-54] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 11:47:58,389 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-28 11:47:58,389 [Worker-54] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 11:47:58,389 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Day-Jul-28-AngularJs\src\test\resources
+2016-07-28 11:48:16,331 [Worker-58] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 11:48:16,331 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-28 11:48:16,331 [Worker-58] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 11:48:16,331 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Day-Jul-28-AngularJs\src\test\resources
+2016-07-28 11:48:22,830 [Worker-54] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 11:48:22,830 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-28 11:48:22,830 [Worker-54] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 11:48:22,830 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Day-Jul-28-AngularJs\src\test\resources
+2016-07-28 11:48:25,685 [Worker-54] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 11:48:25,685 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-28 11:48:25,685 [Worker-54] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 11:48:25,685 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Day-Jul-28-AngularJs\src\test\resources
+2016-07-28 11:48:38,616 [Worker-60] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 11:48:38,631 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-28 11:48:38,631 [Worker-60] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 11:48:38,631 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Day-Jul-28-AngularJs\src\test\resources
+2016-07-28 11:49:02,467 [Worker-54] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 11:49:02,467 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-28 11:49:02,467 [Worker-54] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 11:49:02,467 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Day-Jul-28-AngularJs\src\test\resources
+2016-07-28 11:50:07,068 [Worker-54] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 11:50:07,068 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-28 11:50:07,068 [Worker-54] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 11:50:07,068 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Day-Jul-28-AngularJs\src\test\resources
+2016-07-28 11:50:21,763 [Worker-56] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 11:50:21,763 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-28 11:50:21,763 [Worker-56] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 11:50:21,763 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Day-Jul-28-AngularJs\src\test\resources
+2016-07-28 11:50:23,994 [Worker-54] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 11:50:23,994 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-28 11:50:23,994 [Worker-54] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 11:50:23,994 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Day-Jul-28-AngularJs\src\test\resources
+2016-07-28 11:50:33,885 [Worker-54] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 11:50:33,885 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-28 11:50:33,885 [Worker-54] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 11:50:33,885 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Day-Jul-28-AngularJs\src\test\resources
+2016-07-28 11:50:43,925 [Worker-60] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 11:50:43,925 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-28 11:50:43,925 [Worker-60] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 11:50:43,925 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Day-Jul-28-AngularJs\src\test\resources
+2016-07-28 11:50:59,665 [Worker-54] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 11:50:59,665 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-28 11:50:59,665 [Worker-54] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 11:50:59,665 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Day-Jul-28-AngularJs\src\test\resources
+2016-07-28 11:51:44,204 [Worker-54] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 11:51:44,204 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-28 11:51:44,204 [Worker-54] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 11:51:44,204 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Day-Jul-28-AngularJs\src\test\resources
+2016-07-28 11:52:02,050 [Worker-58] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 11:52:02,050 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-28 11:52:02,050 [Worker-58] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 11:52:02,050 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Day-Jul-28-AngularJs\src\test\resources
+2016-07-28 11:52:58,710 [Worker-58] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 11:52:58,710 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-28 11:52:58,710 [Worker-58] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 11:52:58,710 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Day-Jul-28-AngularJs\src\test\resources
+2016-07-28 11:55:16,687 [Worker-64] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 11:55:16,687 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-28 11:55:16,687 [Worker-64] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 11:55:16,687 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Day-Jul-28-AngularJs\src\test\resources
+2016-07-28 11:56:49,819 [Worker-64] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 11:56:49,819 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-28 11:56:49,819 [Worker-64] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 11:56:49,819 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Day-Jul-28-AngularJs\src\test\resources
+2016-07-28 11:56:51,863 [Worker-60] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 11:56:51,863 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-28 11:56:51,863 [Worker-60] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 11:56:51,878 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Day-Jul-28-AngularJs\src\test\resources
+2016-07-28 11:57:03,219 [Worker-64] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 11:57:03,219 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-28 11:57:03,219 [Worker-64] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 11:57:03,219 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Day-Jul-28-AngularJs\src\test\resources
+2016-07-28 11:57:17,523 [Worker-68] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 11:57:17,523 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-28 11:57:17,523 [Worker-68] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 11:57:17,523 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Day-Jul-28-AngularJs\src\test\resources
+2016-07-28 11:57:19,629 [Worker-67] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 11:57:19,629 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-28 11:57:19,629 [Worker-67] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 11:57:19,629 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Day-Jul-28-AngularJs\src\test\resources
+2016-07-28 11:58:46,016 [Worker-67] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 11:58:46,016 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-28 11:58:46,016 [Worker-67] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 11:58:46,016 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Day-Jul-28-AngularJs\src\test\resources
+2016-07-28 11:59:04,113 [Worker-69] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 11:59:04,113 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-28 11:59:04,113 [Worker-69] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 11:59:04,113 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Day-Jul-28-AngularJs\src\test\resources
+2016-07-28 11:59:15,341 [Worker-71] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 11:59:15,341 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-28 11:59:15,341 [Worker-71] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 11:59:15,341 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Day-Jul-28-AngularJs\src\test\resources
+2016-07-28 11:59:34,918 [Worker-69] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 11:59:34,918 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-28 11:59:34,918 [Worker-69] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 11:59:34,918 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Day-Jul-28-AngularJs\src\test\resources
+2016-07-28 11:59:38,537 [Worker-72] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 11:59:38,537 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-28 11:59:38,537 [Worker-72] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 11:59:38,537 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Day-Jul-28-AngularJs\src\test\resources
+2016-07-28 11:59:45,712 [Worker-72] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 11:59:45,712 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-28 11:59:45,712 [Worker-72] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 11:59:45,712 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Day-Jul-28-AngularJs\src\test\resources
+2016-07-28 11:59:54,915 [Worker-69] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 11:59:54,915 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-28 11:59:54,915 [Worker-69] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 11:59:54,915 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Day-Jul-28-AngularJs\src\test\resources
+2016-07-28 12:00:41,723 [Worker-71] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 12:00:41,723 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-28 12:00:41,723 [Worker-71] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 12:00:41,723 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Day-Jul-28-AngularJs\src\test\resources
+2016-07-28 12:00:49,070 [Worker-72] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 12:00:49,070 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-28 12:00:49,070 [Worker-72] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 12:00:49,070 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Day-Jul-28-AngularJs\src\test\resources
+2016-07-28 12:01:01,674 [Worker-71] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 12:01:01,674 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-28 12:01:01,674 [Worker-71] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 12:01:01,674 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Day-Jul-28-AngularJs\src\test\resources
+2016-07-28 12:01:11,548 [Worker-72] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 12:01:11,548 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-28 12:01:11,548 [Worker-72] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 12:01:11,548 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Day-Jul-28-AngularJs\src\test\resources
+2016-07-28 12:01:17,554 [Worker-67] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 12:01:17,554 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-28 12:01:17,554 [Worker-67] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 12:01:17,554 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Day-Jul-28-AngularJs\src\test\resources
+2016-07-28 12:01:55,865 [Worker-69] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 12:01:55,865 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-28 12:01:55,865 [Worker-69] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 12:01:55,865 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Day-Jul-28-AngularJs\src\test\resources
+2016-07-28 12:02:12,822 [Worker-69] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 12:02:12,822 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-28 12:02:12,822 [Worker-69] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 12:02:12,822 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Day-Jul-28-AngularJs\src\test\resources
+2016-07-28 12:02:38,483 [Worker-60] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 12:02:38,483 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-28 12:02:38,483 [Worker-60] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 12:02:38,483 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Day-Jul-28-AngularJs\src\test\resources
+2016-07-28 12:02:48,373 [Worker-72] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 12:02:48,373 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-28 12:02:48,373 [Worker-72] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 12:02:48,373 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Day-Jul-28-AngularJs\src\test\resources
+2016-07-28 12:03:07,966 [Worker-69] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 12:03:07,966 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-28 12:03:07,982 [Worker-69] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 12:03:07,982 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Day-Jul-28-AngularJs\src\test\resources
+2016-07-28 15:14:15,720 [org.eclipse.wst.sse.ui.internal.reconcile.StructuredRegionProcessor] ERROR o.e.m.c.i.p.r.ProjectRegistryReader - Can't read workspace state
+java.io.InvalidClassException: org.eclipse.m2e.core.internal.project.registry.BasicProjectRegistry; local class incompatible: stream classdesc serialVersionUID = 5542512601401896748, local class serialVersionUID = 6232274446642339434
+	at java.io.ObjectStreamClass.initNonProxy(Unknown Source) ~[na:1.8.0_45]
+	at java.io.ObjectInputStream.readNonProxyDesc(Unknown Source) ~[na:1.8.0_45]
+	at java.io.ObjectInputStream.readClassDesc(Unknown Source) ~[na:1.8.0_45]
+	at java.io.ObjectInputStream.readNonProxyDesc(Unknown Source) ~[na:1.8.0_45]
+	at java.io.ObjectInputStream.readClassDesc(Unknown Source) ~[na:1.8.0_45]
+	at java.io.ObjectInputStream.readOrdinaryObject(Unknown Source) ~[na:1.8.0_45]
+	at java.io.ObjectInputStream.readObject0(Unknown Source) ~[na:1.8.0_45]
+	at java.io.ObjectInputStream.readObject(Unknown Source) ~[na:1.8.0_45]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryReader.readWorkspaceState(ProjectRegistryReader.java:100) ~[org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.<init>(ProjectRegistryManager.java:163) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.MavenPluginActivator.start(MavenPluginActivator.java:211) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.osgi.internal.framework.BundleContextImpl$3.run(BundleContextImpl.java:771) [org.eclipse.osgi_3.10.101.v20150820-1432.jar:na]
+	at org.eclipse.osgi.internal.framework.BundleContextImpl$3.run(BundleContextImpl.java:1) [org.eclipse.osgi_3.10.101.v20150820-1432.jar:na]
+	at java.security.AccessController.doPrivileged(Native Method) [na:1.8.0_45]
+	at org.eclipse.osgi.internal.framework.BundleContextImpl.startActivator(BundleContextImpl.java:764) [org.eclipse.osgi_3.10.101.v20150820-1432.jar:na]
+	at org.eclipse.osgi.internal.framework.BundleContextImpl.start(BundleContextImpl.java:721) [org.eclipse.osgi_3.10.101.v20150820-1432.jar:na]
+	at org.eclipse.osgi.internal.framework.EquinoxBundle.startWorker0(EquinoxBundle.java:941) [org.eclipse.osgi_3.10.101.v20150820-1432.jar:na]
+	at org.eclipse.osgi.internal.framework.EquinoxBundle$EquinoxModule.startWorker(EquinoxBundle.java:318) [org.eclipse.osgi_3.10.101.v20150820-1432.jar:na]
+	at org.eclipse.osgi.container.Module.doStart(Module.java:571) [org.eclipse.osgi_3.10.101.v20150820-1432.jar:na]
+	at org.eclipse.osgi.container.Module.start(Module.java:439) [org.eclipse.osgi_3.10.101.v20150820-1432.jar:na]
+	at org.eclipse.osgi.framework.util.SecureAction.start(SecureAction.java:454) [org.eclipse.osgi_3.10.101.v20150820-1432.jar:na]
+	at org.eclipse.osgi.internal.hooks.EclipseLazyStarter.postFindLocalClass(EclipseLazyStarter.java:107) [org.eclipse.osgi_3.10.101.v20150820-1432.jar:na]
+	at org.eclipse.osgi.internal.loader.classpath.ClasspathManager.findLocalClass(ClasspathManager.java:531) [org.eclipse.osgi_3.10.101.v20150820-1432.jar:na]
+	at org.eclipse.osgi.internal.loader.ModuleClassLoader.findLocalClass(ModuleClassLoader.java:324) [org.eclipse.osgi_3.10.101.v20150820-1432.jar:na]
+	at org.eclipse.osgi.internal.loader.BundleLoader.findLocalClass(BundleLoader.java:327) [org.eclipse.osgi_3.10.101.v20150820-1432.jar:na]
+	at org.eclipse.osgi.internal.loader.sources.SingleSourcePackage.loadClass(SingleSourcePackage.java:36) [org.eclipse.osgi_3.10.101.v20150820-1432.jar:na]
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClassInternal(BundleLoader.java:398) [org.eclipse.osgi_3.10.101.v20150820-1432.jar:na]
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:352) [org.eclipse.osgi_3.10.101.v20150820-1432.jar:na]
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:344) [org.eclipse.osgi_3.10.101.v20150820-1432.jar:na]
+	at org.eclipse.osgi.internal.loader.ModuleClassLoader.loadClass(ModuleClassLoader.java:160) [org.eclipse.osgi_3.10.101.v20150820-1432.jar:na]
+	at java.lang.ClassLoader.loadClass(Unknown Source) [na:1.8.0_45]
+	at org.eclipse.m2e.jdt.MavenJdtPlugin.start(MavenJdtPlugin.java:93) [org.eclipse.m2e.jdt_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.osgi.internal.framework.BundleContextImpl$3.run(BundleContextImpl.java:771) [org.eclipse.osgi_3.10.101.v20150820-1432.jar:na]
+	at org.eclipse.osgi.internal.framework.BundleContextImpl$3.run(BundleContextImpl.java:1) [org.eclipse.osgi_3.10.101.v20150820-1432.jar:na]
+	at java.security.AccessController.doPrivileged(Native Method) [na:1.8.0_45]
+	at org.eclipse.osgi.internal.framework.BundleContextImpl.startActivator(BundleContextImpl.java:764) [org.eclipse.osgi_3.10.101.v20150820-1432.jar:na]
+	at org.eclipse.osgi.internal.framework.BundleContextImpl.start(BundleContextImpl.java:721) [org.eclipse.osgi_3.10.101.v20150820-1432.jar:na]
+	at org.eclipse.osgi.internal.framework.EquinoxBundle.startWorker0(EquinoxBundle.java:941) [org.eclipse.osgi_3.10.101.v20150820-1432.jar:na]
+	at org.eclipse.osgi.internal.framework.EquinoxBundle$EquinoxModule.startWorker(EquinoxBundle.java:318) [org.eclipse.osgi_3.10.101.v20150820-1432.jar:na]
+	at org.eclipse.osgi.container.Module.doStart(Module.java:571) [org.eclipse.osgi_3.10.101.v20150820-1432.jar:na]
+	at org.eclipse.osgi.container.Module.start(Module.java:439) [org.eclipse.osgi_3.10.101.v20150820-1432.jar:na]
+	at org.eclipse.osgi.framework.util.SecureAction.start(SecureAction.java:454) [org.eclipse.osgi_3.10.101.v20150820-1432.jar:na]
+	at org.eclipse.osgi.internal.hooks.EclipseLazyStarter.postFindLocalClass(EclipseLazyStarter.java:107) [org.eclipse.osgi_3.10.101.v20150820-1432.jar:na]
+	at org.eclipse.osgi.internal.loader.classpath.ClasspathManager.findLocalClass(ClasspathManager.java:531) [org.eclipse.osgi_3.10.101.v20150820-1432.jar:na]
+	at org.eclipse.osgi.internal.loader.ModuleClassLoader.findLocalClass(ModuleClassLoader.java:324) [org.eclipse.osgi_3.10.101.v20150820-1432.jar:na]
+	at org.eclipse.osgi.internal.loader.BundleLoader.findLocalClass(BundleLoader.java:327) [org.eclipse.osgi_3.10.101.v20150820-1432.jar:na]
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClassInternal(BundleLoader.java:402) [org.eclipse.osgi_3.10.101.v20150820-1432.jar:na]
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:352) [org.eclipse.osgi_3.10.101.v20150820-1432.jar:na]
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:344) [org.eclipse.osgi_3.10.101.v20150820-1432.jar:na]
+	at org.eclipse.osgi.internal.loader.ModuleClassLoader.loadClass(ModuleClassLoader.java:160) [org.eclipse.osgi_3.10.101.v20150820-1432.jar:na]
+	at java.lang.ClassLoader.loadClass(Unknown Source) [na:1.8.0_45]
+	at org.eclipse.osgi.internal.framework.EquinoxBundle.loadClass(EquinoxBundle.java:573) [org.eclipse.osgi_3.10.101.v20150820-1432.jar:na]
+	at org.eclipse.core.internal.registry.osgi.RegistryStrategyOSGI.createExecutableExtension(RegistryStrategyOSGI.java:174) [org.eclipse.equinox.registry_3.6.0.v20150318-1503.jar:na]
+	at org.eclipse.core.internal.registry.ExtensionRegistry.createExecutableExtension(ExtensionRegistry.java:905) [org.eclipse.equinox.registry_3.6.0.v20150318-1503.jar:na]
+	at org.eclipse.core.internal.registry.ConfigurationElement.createExecutableExtension(ConfigurationElement.java:243) [org.eclipse.equinox.registry_3.6.0.v20150318-1503.jar:na]
+	at org.eclipse.core.internal.registry.ConfigurationElementHandle.createExecutableExtension(ConfigurationElementHandle.java:55) [org.eclipse.equinox.registry_3.6.0.v20150318-1503.jar:na]
+	at org.eclipse.jdt.core.JavaCore.computeClasspathContainerInitializer(JavaCore.java:3345) [org.eclipse.jdt.core_3.11.1.v20150902-1521.jar:na]
+	at org.eclipse.jdt.core.JavaCore.getClasspathContainerInitializer(JavaCore.java:3321) [org.eclipse.jdt.core_3.11.1.v20150902-1521.jar:na]
+	at org.eclipse.jdt.internal.core.JavaModelManager.initializeContainer(JavaModelManager.java:2849) [org.eclipse.jdt.core_3.11.1.v20150902-1521.jar:na]
+	at org.eclipse.jdt.internal.core.JavaModelManager.getClasspathContainer(JavaModelManager.java:1900) [org.eclipse.jdt.core_3.11.1.v20150902-1521.jar:na]
+	at org.eclipse.jdt.core.JavaCore.getClasspathContainer(JavaCore.java:3298) [org.eclipse.jdt.core_3.11.1.v20150902-1521.jar:na]
+	at org.eclipse.jdt.internal.core.JavaProject.resolveClasspath(JavaProject.java:2693) [org.eclipse.jdt.core_3.11.1.v20150902-1521.jar:na]
+	at org.eclipse.jdt.internal.core.JavaProject.resolveClasspath(JavaProject.java:2857) [org.eclipse.jdt.core_3.11.1.v20150902-1521.jar:na]
+	at org.eclipse.jdt.internal.core.JavaProject.getResolvedClasspath(JavaProject.java:1962) [org.eclipse.jdt.core_3.11.1.v20150902-1521.jar:na]
+	at org.eclipse.jdt.internal.core.JavaProject.buildStructure(JavaProject.java:464) [org.eclipse.jdt.core_3.11.1.v20150902-1521.jar:na]
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:259) [org.eclipse.jdt.core_3.11.1.v20150902-1521.jar:na]
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:579) [org.eclipse.jdt.core_3.11.1.v20150902-1521.jar:na]
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:316) [org.eclipse.jdt.core_3.11.1.v20150902-1521.jar:na]
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:302) [org.eclipse.jdt.core_3.11.1.v20150902-1521.jar:na]
+	at org.eclipse.jdt.internal.core.JavaElement.getChildren(JavaElement.java:257) [org.eclipse.jdt.core_3.11.1.v20150902-1521.jar:na]
+	at org.eclipse.jdt.internal.core.JavaProject.getPackageFragmentRoots(JavaProject.java:1850) [org.eclipse.jdt.core_3.11.1.v20150902-1521.jar:na]
+	at org.eclipse.jst.j2ee.internal.project.J2EEProjectUtilities.getSourceContainers(J2EEProjectUtilities.java:810) [org.eclipse.jst.j2ee_1.1.850.v201506041749.jar:na]
+	at org.eclipse.jst.j2ee.internal.validation.ProjectValidationHelper.getCachedSourceContainers(ProjectValidationHelper.java:76) [org.eclipse.jst.j2ee_1.1.850.v201506041749.jar:na]
+	at org.eclipse.jst.j2ee.internal.validation.ProjectValidationHelper.getSourceContainers(ProjectValidationHelper.java:87) [org.eclipse.jst.j2ee_1.1.850.v201506041749.jar:na]
+	at org.eclipse.wst.validation.internal.ValidatorMetaData.checkIfValidSourceFile(ValidatorMetaData.java:341) [org.eclipse.wst.validation_1.2.700.v201508251749.jar:na]
+	at org.eclipse.wst.validation.internal.ValidatorMetaData.isApplicableTo(ValidatorMetaData.java:311) [org.eclipse.wst.validation_1.2.700.v201508251749.jar:na]
+	at org.eclipse.wst.validation.internal.ValidatorMetaData.isApplicableTo(ValidatorMetaData.java:302) [org.eclipse.wst.validation_1.2.700.v201508251749.jar:na]
+	at org.eclipse.wst.validation.internal.ValidatorMetaData.isApplicableTo(ValidatorMetaData.java:287) [org.eclipse.wst.validation_1.2.700.v201508251749.jar:na]
+	at org.eclipse.wst.validation.Validator$V1.shouldValidate(Validator.java:734) [org.eclipse.wst.validation_1.2.700.v201508251749.jar:na]
+	at org.eclipse.wst.validation.Validator.shouldValidate(Validator.java:320) [org.eclipse.wst.validation_1.2.700.v201508251749.jar:na]
+	at org.eclipse.wst.validation.Friend.shouldValidate(Friend.java:50) [org.eclipse.wst.validation_1.2.700.v201508251749.jar:na]
+	at org.eclipse.wst.validation.internal.ValManager.accept(ValManager.java:800) [org.eclipse.wst.validation_1.2.700.v201508251749.jar:na]
+	at org.eclipse.wst.validation.internal.DisabledValidatorManager$DisabledValidationFinder.findDisabledValidatorsFor(DisabledValidatorManager.java:109) [org.eclipse.wst.validation_1.2.700.v201508251749.jar:na]
+	at org.eclipse.wst.validation.internal.DisabledValidatorManager.getDisabledValidatorsFor(DisabledValidatorManager.java:62) [org.eclipse.wst.validation_1.2.700.v201508251749.jar:na]
+	at org.eclipse.wst.validation.ValidationFramework.getDisabledValidatorsFor(ValidationFramework.java:232) [org.eclipse.wst.validation_1.2.700.v201508251749.jar:na]
+	at org.eclipse.wst.sse.ui.internal.reconcile.validator.ValidatorStrategy.reconcile(ValidatorStrategy.java:205) [org.eclipse.wst.sse.ui_1.3.400.v201505141512.jar:na]
+	at org.eclipse.wst.sse.ui.internal.reconcile.DocumentRegionProcessor.process(DocumentRegionProcessor.java:321) [org.eclipse.wst.sse.ui_1.3.400.v201505141512.jar:na]
+	at org.eclipse.wst.sse.ui.internal.reconcile.StructuredRegionProcessor.process(StructuredRegionProcessor.java:258) [org.eclipse.wst.sse.ui_1.3.400.v201505141512.jar:na]
+	at org.eclipse.wst.sse.ui.internal.reconcile.DirtyRegionProcessor$BackgroundThread.run(DirtyRegionProcessor.java:691) [org.eclipse.wst.sse.ui_1.3.400.v201505141512.jar:na]
+2016-07-28 15:14:27,335 [Worker-4] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: org.cap.demo:Day-Jul-28-AngularJs:0.0.1-SNAPSHOT @ D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Day-Jul-28-AngularJs\pom.xml.
+2016-07-28 15:14:27,335 [Worker-8] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: org.cap.demo:Day-Jul-28-AngularJs:0.0.1-SNAPSHOT @ D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Day-Jul-28-AngularJs\pom.xml.
+2016-07-28 15:14:32,520 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 15:14:32,525 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-28 15:14:32,528 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 15:14:32,529 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Day-Jul-28-AngularJs\src\test\resources
+2016-07-28 15:14:33,896 [Worker-11] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: org.cap.demo:Day-Jul-28-AngularJs:0.0.1-SNAPSHOT @ D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Day-Jul-28-AngularJs\pom.xml.
+2016-07-28 15:14:35,287 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 15:14:35,290 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-28 15:14:35,292 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 15:14:35,294 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Day-Jul-28-AngularJs\src\test\resources
+2016-07-28 15:18:32,690 [Worker-11] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2016-07-28 15:18:33,765 [Worker-11] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: org.cap.demo:Day-Jul-28-AngularJs:0.0.1-SNAPSHOT @ D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Day-Jul-28-AngularJs\pom.xml.
+2016-07-28 15:18:34,559 [Worker-11] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Day-Jul-28-AngularJs/src/main/java
+2016-07-28 15:18:34,559 [Worker-11] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Day-Jul-28-AngularJs/src/main/resources
+2016-07-28 15:18:34,560 [Worker-11] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Day-Jul-28-AngularJs/src/test/java
+2016-07-28 15:18:37,712 [Worker-11] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for Day-Jul-28-AngularJs
+2016-07-28 15:18:37,726 [Worker-11] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 5 sec
+2016-07-28 15:18:39,153 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 15:18:39,156 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-28 15:18:39,159 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 15:18:39,160 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Day-Jul-28-AngularJs\src\test\resources
+2016-07-28 15:18:39,161 [Worker-10] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of Day-Jul-28-AngularJs
+2016-07-28 15:18:39,162 [Worker-10] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for Day-Jul-28-AngularJs
+2016-07-28 15:18:39,168 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 15:59:06,916 [Worker-35] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: org.cap.demo:Day-Jul-28-AngularJs:0.0.1-SNAPSHOT @ D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Day-Jul-28-AngularJs\pom.xml.
+2016-07-28 15:59:10,675 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 15:59:10,878 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-28 15:59:10,882 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 15:59:10,884 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Day-Jul-28-AngularJs\src\test\resources
+2016-07-28 15:59:10,885 [Worker-35] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of Day-Jul-28-AngularJs
+2016-07-28 15:59:10,885 [Worker-35] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for Day-Jul-28-AngularJs
+2016-07-28 15:59:10,896 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 15:59:45,969 [Worker-38] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 15:59:45,970 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-28 15:59:45,972 [Worker-38] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 15:59:45,975 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Day-Jul-28-AngularJs\src\test\resources
+2016-07-28 15:59:56,529 [Worker-38] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2016-07-28 15:59:58,163 [Worker-38] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: org.cap.demo:Day-Jul-28-AngularJs:0.0.1-SNAPSHOT @ D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Day-Jul-28-AngularJs\pom.xml.
+2016-07-28 16:00:01,039 [Worker-38] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Day-Jul-28-AngularJs/src/main/java
+2016-07-28 16:00:01,039 [Worker-38] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Day-Jul-28-AngularJs/src/main/resources
+2016-07-28 16:00:01,040 [Worker-38] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Day-Jul-28-AngularJs/src/test/java
+2016-07-28 16:00:04,862 [Worker-38] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for Day-Jul-28-AngularJs
+2016-07-28 16:00:04,873 [Worker-38] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 8 sec
+2016-07-28 16:00:05,832 [Worker-41] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:00:05,834 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-28 16:00:05,836 [Worker-41] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:00:05,837 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Day-Jul-28-AngularJs\src\test\resources
+2016-07-28 16:00:05,838 [Worker-41] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of Day-Jul-28-AngularJs
+2016-07-28 16:00:05,838 [Worker-41] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for Day-Jul-28-AngularJs
+2016-07-28 16:00:05,844 [Worker-41] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:01:38,054 [Worker-38] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:01:38,056 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-28 16:01:38,057 [Worker-38] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:01:38,058 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Day-Jul-28-AngularJs\src\test\resources
+2016-07-28 16:01:42,266 [Worker-40] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: org.cap.demo:Day-Jul-28-AngularJs:0.0.1-SNAPSHOT @ D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Day-Jul-28-AngularJs\pom.xml.
+2016-07-28 16:01:44,883 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:01:44,885 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-28 16:01:44,896 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:01:44,897 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Day-Jul-28-AngularJs\src\test\resources
+2016-07-28 16:01:45,447 [Worker-36] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2016-07-28 16:01:46,129 [Worker-36] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: org.cap.demo:Day-Jul-28-AngularJs:0.0.1-SNAPSHOT @ D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Day-Jul-28-AngularJs\pom.xml.
+2016-07-28 16:01:46,871 [Worker-36] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Day-Jul-28-AngularJs/src/main/java
+2016-07-28 16:01:46,871 [Worker-36] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Day-Jul-28-AngularJs/src/main/resources
+2016-07-28 16:01:46,871 [Worker-36] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Day-Jul-28-AngularJs/src/test/java
+2016-07-28 16:01:49,010 [Worker-36] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for Day-Jul-28-AngularJs
+2016-07-28 16:01:49,018 [Worker-36] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 3 sec
+2016-07-28 16:01:49,920 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:01:49,921 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-28 16:01:49,923 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:01:49,924 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Day-Jul-28-AngularJs\src\test\resources
+2016-07-28 16:01:49,925 [Worker-39] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of Day-Jul-28-AngularJs
+2016-07-28 16:01:49,925 [Worker-39] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for Day-Jul-28-AngularJs
+2016-07-28 16:01:50,013 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:02:11,401 [Worker-36] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Employee_Angular\pom.xml
+2016-07-28 16:02:12,145 [Worker-36] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: org.cap.demo:Employee_Angular:0.0.1-SNAPSHOT @ D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Employee_Angular\pom.xml.
+2016-07-28 16:02:12,942 [Worker-36] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Employee_Angular/src/main/java
+2016-07-28 16:02:12,942 [Worker-36] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Employee_Angular/src/main/resources
+2016-07-28 16:02:12,943 [Worker-36] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Employee_Angular/src/test/java
+2016-07-28 16:02:16,080 [Worker-36] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 4 sec
+2016-07-28 16:02:16,598 [Worker-37] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:02:16,600 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-28 16:02:16,601 [Worker-37] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:02:16,602 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Employee_Angular\src\test\resources
+2016-07-28 16:02:30,688 [Worker-40] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: org.cap.demo:Employee_Angular:0.0.1-SNAPSHOT @ D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Employee_Angular\pom.xml.
+2016-07-28 16:02:31,540 [Worker-40] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:02:31,542 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-28 16:02:31,543 [Worker-40] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:02:31,543 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Employee_Angular\src\test\resources
+2016-07-28 16:02:31,544 [Worker-40] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of Employee_Angular
+2016-07-28 16:02:31,544 [Worker-40] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for Employee_Angular
+2016-07-28 16:02:31,546 [Worker-40] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:02:39,577 [Worker-39] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2016-07-28 16:02:40,089 [Worker-39] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: org.cap.demo:Employee_Angular:0.0.1-SNAPSHOT @ D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Employee_Angular\pom.xml.
+2016-07-28 16:02:40,692 [Worker-39] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Employee_Angular/src/main/java
+2016-07-28 16:02:40,692 [Worker-39] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Employee_Angular/src/main/resources
+2016-07-28 16:02:40,693 [Worker-39] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Employee_Angular/src/test/java
+2016-07-28 16:02:42,845 [Worker-39] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for Employee_Angular
+2016-07-28 16:02:42,855 [Worker-39] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 3 sec
+2016-07-28 16:02:42,960 [Worker-37] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:02:42,962 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-28 16:02:42,964 [Worker-37] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:02:42,964 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Employee_Angular\src\test\resources
+2016-07-28 16:02:42,965 [Worker-37] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of Employee_Angular
+2016-07-28 16:02:42,965 [Worker-37] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for Employee_Angular
+2016-07-28 16:02:42,970 [Worker-37] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:02:43,293 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:02:43,295 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-28 16:02:43,296 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:02:43,296 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Employee_Angular\src\test\resources
+2016-07-28 16:02:56,831 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:02:56,833 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-28 16:02:56,834 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:02:56,836 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Employee_Angular\src\test\resources
+2016-07-28 16:03:14,653 [Worker-40] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: org.cap.demo:Employee_Angular:0.0.1-SNAPSHOT @ D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Employee_Angular\pom.xml.
+2016-07-28 16:03:15,588 [Worker-40] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:03:15,590 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-28 16:03:15,591 [Worker-40] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:03:15,592 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Employee_Angular\src\test\resources
+2016-07-28 16:03:15,592 [Worker-40] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of Employee_Angular
+2016-07-28 16:03:15,592 [Worker-40] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for Employee_Angular
+2016-07-28 16:03:15,595 [Worker-40] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:03:25,414 [Worker-37] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2016-07-28 16:03:26,077 [Worker-37] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: org.cap.demo:Employee_Angular:0.0.1-SNAPSHOT @ D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Employee_Angular\pom.xml.
+2016-07-28 16:03:26,731 [Worker-37] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Employee_Angular/src/main/java
+2016-07-28 16:03:26,731 [Worker-37] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Employee_Angular/src/main/resources
+2016-07-28 16:03:26,732 [Worker-37] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Employee_Angular/src/test/java
+2016-07-28 16:03:28,808 [Worker-37] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for Employee_Angular
+2016-07-28 16:03:28,815 [Worker-37] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 3 sec
+2016-07-28 16:03:29,303 [Worker-37] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:03:29,304 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-28 16:03:29,306 [Worker-37] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:03:29,307 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Employee_Angular\src\test\resources
+2016-07-28 16:03:29,307 [Worker-37] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of Employee_Angular
+2016-07-28 16:03:29,307 [Worker-37] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for Employee_Angular
+2016-07-28 16:03:29,311 [Worker-37] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:03:59,455 [Worker-36] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Demo\pom.xml
+2016-07-28 16:04:00,012 [Worker-36] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: org.cap.ang:Demo:0.0.1-SNAPSHOT @ D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Demo\pom.xml.
+2016-07-28 16:04:00,586 [Worker-36] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Demo/src/main/java
+2016-07-28 16:04:00,586 [Worker-36] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Demo/src/main/resources
+2016-07-28 16:04:00,586 [Worker-36] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Demo/src/test/java
+2016-07-28 16:04:02,789 [Worker-36] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 3 sec
+2016-07-28 16:04:03,075 [Worker-41] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:04:03,077 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-28 16:04:03,078 [Worker-41] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:04:03,079 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Demo\src\test\resources
+2016-07-28 16:04:35,988 [Worker-41] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: org.cap.ang:Demo:0.0.1-SNAPSHOT @ D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Demo\pom.xml.
+2016-07-28 16:04:37,241 [Worker-41] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:04:37,242 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-28 16:04:37,244 [Worker-41] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:04:37,244 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Demo\src\test\resources
+2016-07-28 16:04:37,244 [Worker-41] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of Demo
+2016-07-28 16:04:37,245 [Worker-41] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for Demo
+2016-07-28 16:04:37,247 [Worker-41] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:04:41,349 [Worker-40] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: org.cap.ang:Demo:0.0.1-SNAPSHOT @ D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Demo\pom.xml.
+2016-07-28 16:04:41,924 [Worker-40] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:04:41,925 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-28 16:04:41,927 [Worker-40] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:04:41,928 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Demo\src\test\resources
+2016-07-28 16:04:41,928 [Worker-40] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of Demo
+2016-07-28 16:04:41,928 [Worker-40] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for Demo
+2016-07-28 16:04:41,931 [Worker-40] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:04:47,196 [Worker-39] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2016-07-28 16:04:47,644 [Worker-39] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: org.cap.ang:Demo:0.0.1-SNAPSHOT @ D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Demo\pom.xml.
+2016-07-28 16:04:48,170 [Worker-39] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Demo/src/main/java
+2016-07-28 16:04:48,170 [Worker-39] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Demo/src/main/resources
+2016-07-28 16:04:48,171 [Worker-39] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Demo/src/test/java
+2016-07-28 16:04:49,881 [Worker-39] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for Demo
+2016-07-28 16:04:49,892 [Worker-39] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 2 sec
+2016-07-28 16:04:50,231 [Worker-36] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:04:50,232 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-28 16:04:50,234 [Worker-36] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:04:50,234 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Demo\src\test\resources
+2016-07-28 16:04:50,234 [Worker-36] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of Demo
+2016-07-28 16:04:50,234 [Worker-36] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for Demo
+2016-07-28 16:04:50,237 [Worker-36] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:04:50,893 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:04:50,895 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-28 16:04:50,896 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:04:50,897 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Demo\src\test\resources
+2016-07-28 16:04:57,636 [Worker-43] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:04:57,639 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-28 16:04:57,641 [Worker-43] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:04:57,643 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Demo\src\test\resources
+2016-07-28 16:05:45,292 [Worker-36] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:05:45,294 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-28 16:05:45,295 [Worker-36] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:05:45,296 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Employee_Angular\src\test\resources
+2016-07-28 16:05:51,231 [Worker-37] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:05:51,232 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-28 16:05:51,232 [Worker-37] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:05:51,233 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Employee_Angular\src\test\resources
+2016-07-28 16:06:52,433 [Worker-38] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:06:52,435 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-28 16:06:52,435 [Worker-38] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:06:52,436 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Employee_Angular\src\test\resources
+2016-07-28 16:08:42,299 [Worker-44] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: org.cap.demo:Employee_Angular:0.0.1-SNAPSHOT @ D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Employee_Angular\pom.xml.
+2016-07-28 16:08:43,098 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:08:43,099 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-28 16:08:43,100 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:08:43,102 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Employee_Angular\src\test\resources
+2016-07-28 16:08:43,102 [Worker-44] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of Employee_Angular
+2016-07-28 16:08:43,102 [Worker-44] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for Employee_Angular
+2016-07-28 16:08:43,109 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:09:13,610 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:09:13,611 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-28 16:09:13,612 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:09:13,613 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Employee_Angular\src\test\resources
+2016-07-28 16:09:48,285 [Worker-45] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:09:48,287 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-28 16:09:48,288 [Worker-45] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:09:48,288 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Employee_Angular\src\test\resources
+2016-07-28 16:09:50,321 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:09:50,322 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-28 16:09:50,323 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:09:50,325 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Employee_Angular\src\test\resources
+2016-07-28 16:10:04,501 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:10:04,503 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-28 16:10:04,505 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:10:04,506 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Employee_Angular\src\test\resources
+2016-07-28 16:10:08,172 [Worker-45] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:10:08,173 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-28 16:10:08,175 [Worker-45] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:10:08,176 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Employee_Angular\src\test\resources
+2016-07-28 16:12:53,309 [Worker-47] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:12:53,359 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-28 16:12:53,360 [Worker-47] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:12:53,361 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Employee_Angular\src\test\resources
+2016-07-28 16:13:11,063 [Worker-51] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:13:11,065 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-28 16:13:11,066 [Worker-51] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:13:11,067 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Employee_Angular\src\test\resources
+2016-07-28 16:13:20,085 [Worker-50] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:13:20,087 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-28 16:13:20,088 [Worker-50] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:13:20,089 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Employee_Angular\src\test\resources
+2016-07-28 16:13:22,446 [Worker-48] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:13:22,449 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-28 16:13:22,457 [Worker-48] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:13:22,459 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Employee_Angular\src\test\resources
+2016-07-28 16:13:40,514 [Worker-51] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:13:40,517 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-28 16:13:40,518 [Worker-51] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:13:40,519 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Employee_Angular\src\test\resources
+2016-07-28 16:14:13,405 [Worker-46] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:14:13,407 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-28 16:14:13,410 [Worker-46] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:14:13,411 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Employee_Angular\src\test\resources
+2016-07-28 16:14:29,301 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:14:29,303 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-28 16:14:29,304 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:14:29,306 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Employee_Angular\src\test\resources
+2016-07-28 16:14:38,157 [Worker-48] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:14:38,159 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-28 16:14:38,160 [Worker-48] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:14:38,162 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Employee_Angular\src\test\resources
+2016-07-28 16:15:12,094 [Worker-53] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:15:12,095 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-28 16:15:12,096 [Worker-53] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:15:12,096 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Employee_Angular\src\test\resources
+2016-07-28 16:15:30,562 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:15:30,563 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-28 16:15:30,564 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:15:30,565 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Employee_Angular\src\test\resources
+2016-07-28 16:15:31,633 [Worker-53] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:15:31,635 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-28 16:15:31,635 [Worker-53] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:15:31,636 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Employee_Angular\src\test\resources
+2016-07-28 16:15:39,980 [Worker-51] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:15:39,981 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-28 16:15:39,982 [Worker-51] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:15:39,983 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Employee_Angular\src\test\resources
+2016-07-28 16:15:47,294 [Worker-50] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:15:47,296 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-28 16:15:47,297 [Worker-50] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:15:47,298 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Employee_Angular\src\test\resources
+2016-07-28 16:15:49,671 [Worker-51] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:15:49,673 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-28 16:15:49,674 [Worker-51] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:15:49,675 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Employee_Angular\src\test\resources
+2016-07-28 16:15:55,565 [Worker-53] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:15:55,566 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-28 16:15:55,567 [Worker-53] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:15:55,568 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Employee_Angular\src\test\resources
+2016-07-28 16:16:00,874 [Worker-46] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:16:00,875 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-28 16:16:00,876 [Worker-46] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:16:00,877 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Employee_Angular\src\test\resources
+2016-07-28 16:16:01,987 [Worker-50] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:16:01,988 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-28 16:16:01,989 [Worker-50] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:16:01,990 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Employee_Angular\src\test\resources
+2016-07-28 16:16:13,913 [Worker-46] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:16:13,915 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-28 16:16:13,916 [Worker-46] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:16:13,917 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Employee_Angular\src\test\resources
+2016-07-28 16:16:27,526 [Worker-51] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:16:27,527 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-28 16:16:27,528 [Worker-51] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:16:27,529 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Employee_Angular\src\test\resources
+2016-07-28 16:16:32,877 [Worker-46] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:16:32,878 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-28 16:16:32,879 [Worker-46] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:16:32,880 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Employee_Angular\src\test\resources
+2016-07-28 16:16:37,787 [Worker-48] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:16:37,788 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-28 16:16:37,789 [Worker-48] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:16:37,790 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Employee_Angular\src\test\resources
+2016-07-28 16:16:59,861 [Worker-51] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:16:59,863 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-28 16:16:59,863 [Worker-51] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:16:59,864 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Employee_Angular\src\test\resources
+2016-07-28 16:17:10,842 [Worker-48] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:17:10,844 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-28 16:17:10,845 [Worker-48] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:17:10,846 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Employee_Angular\src\test\resources
+2016-07-28 16:17:15,678 [Worker-48] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:17:15,680 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-28 16:17:15,681 [Worker-48] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:17:15,682 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Employee_Angular\src\test\resources
+2016-07-28 16:17:17,876 [Worker-53] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:17:17,878 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-28 16:17:17,880 [Worker-53] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:17:17,881 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Employee_Angular\src\test\resources
+2016-07-28 16:17:39,033 [Worker-53] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:17:39,034 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-28 16:17:39,035 [Worker-53] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:17:39,036 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Employee_Angular\src\test\resources
+2016-07-28 16:18:08,113 [Worker-53] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:18:08,114 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-28 16:18:08,116 [Worker-53] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:18:08,117 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Employee_Angular\src\test\resources
+2016-07-28 16:18:12,731 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:18:12,733 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-28 16:18:12,734 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:18:12,735 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Employee_Angular\src\test\resources
+2016-07-28 16:18:29,468 [Worker-48] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:18:29,469 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-28 16:18:29,470 [Worker-48] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:18:29,470 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Employee_Angular\src\test\resources
+2016-07-28 16:19:07,047 [Worker-46] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:19:07,049 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-28 16:19:07,051 [Worker-46] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:19:07,052 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Employee_Angular\src\test\resources
+2016-07-28 16:19:21,652 [Worker-53] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:19:21,653 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-28 16:19:21,654 [Worker-53] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:19:21,654 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Employee_Angular\src\test\resources
+2016-07-28 16:19:30,907 [Worker-46] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:19:30,908 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-28 16:19:30,909 [Worker-46] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:19:30,910 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Employee_Angular\src\test\resources
+2016-07-28 16:19:44,347 [Worker-51] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:19:44,349 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-28 16:19:44,350 [Worker-51] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:19:44,351 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Employee_Angular\src\test\resources
+2016-07-28 16:20:20,619 [Worker-50] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:20:20,620 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-28 16:20:20,621 [Worker-50] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:20:20,621 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Employee_Angular\src\test\resources
+2016-07-28 16:20:29,284 [Worker-54] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:20:29,285 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-28 16:20:29,286 [Worker-54] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:20:29,287 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Employee_Angular\src\test\resources
+2016-07-28 16:20:35,662 [Worker-54] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:20:35,663 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-28 16:20:35,663 [Worker-54] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:20:35,664 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Employee_Angular\src\test\resources
+2016-07-28 16:20:38,227 [Worker-54] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:20:38,228 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-28 16:20:38,229 [Worker-54] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:20:38,230 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Employee_Angular\src\test\resources
+2016-07-28 16:20:51,262 [Worker-54] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:20:51,264 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-28 16:20:51,265 [Worker-54] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:20:51,266 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Employee_Angular\src\test\resources
+2016-07-28 16:21:02,619 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:21:02,622 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-28 16:21:02,625 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:21:02,629 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Employee_Angular\src\test\resources
+2016-07-28 16:21:29,569 [Worker-54] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:21:29,571 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-28 16:21:29,572 [Worker-54] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:21:29,573 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Employee_Angular\src\test\resources
+2016-07-28 16:21:32,612 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:21:32,614 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-28 16:21:32,614 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:21:32,615 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Employee_Angular\src\test\resources
+2016-07-28 16:22:55,611 [Worker-46] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:22:55,612 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-28 16:22:55,612 [Worker-46] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:22:55,613 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Employee_Angular\src\test\resources
+2016-07-28 16:23:20,976 [Worker-54] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:23:20,979 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-28 16:23:20,980 [Worker-54] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:23:20,983 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Employee_Angular\src\test\resources
+2016-07-28 16:23:28,494 [Worker-53] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:23:28,495 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-28 16:23:28,496 [Worker-53] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:23:28,497 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Employee_Angular\src\test\resources
+2016-07-28 16:23:41,967 [Worker-53] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:23:41,968 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-28 16:23:41,969 [Worker-53] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:23:41,970 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Employee_Angular\src\test\resources
+2016-07-28 16:24:03,603 [Worker-54] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:24:03,604 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-28 16:24:03,605 [Worker-54] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:24:03,605 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Employee_Angular\src\test\resources
+2016-07-28 16:24:07,565 [Worker-55] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:24:07,567 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-28 16:24:07,568 [Worker-55] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:24:07,569 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Employee_Angular\src\test\resources
+2016-07-28 16:24:15,872 [Worker-54] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:24:15,873 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-28 16:24:15,874 [Worker-54] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:24:15,874 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Employee_Angular\src\test\resources
+2016-07-28 16:24:20,561 [Worker-48] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:24:20,563 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-28 16:24:20,564 [Worker-48] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:24:20,565 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Employee_Angular\src\test\resources
+2016-07-28 16:25:07,053 [Worker-46] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:25:07,055 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-28 16:25:07,056 [Worker-46] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:25:07,057 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Employee_Angular\src\test\resources
+2016-07-28 16:25:14,487 [Worker-51] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:25:14,488 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-28 16:25:14,489 [Worker-51] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:25:14,490 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Employee_Angular\src\test\resources
+2016-07-28 16:25:24,552 [Worker-55] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:25:24,552 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-28 16:25:24,553 [Worker-55] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:25:24,555 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Employee_Angular\src\test\resources
+2016-07-28 16:25:30,195 [Worker-54] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:25:30,196 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-28 16:25:30,197 [Worker-54] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:25:30,198 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Employee_Angular\src\test\resources
+2016-07-28 16:25:33,255 [Worker-55] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:25:33,256 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-28 16:25:33,257 [Worker-55] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:25:33,258 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Employee_Angular\src\test\resources
+2016-07-28 16:25:56,290 [Worker-54] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:25:56,292 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-28 16:25:56,293 [Worker-54] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:25:56,294 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Employee_Angular\src\test\resources
+2016-07-28 16:26:00,303 [Worker-47] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:26:00,305 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-28 16:26:00,306 [Worker-47] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:26:00,308 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Employee_Angular\src\test\resources
+2016-07-28 16:26:08,230 [Worker-54] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:26:08,232 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-28 16:26:08,234 [Worker-54] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:26:08,235 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Employee_Angular\src\test\resources
+2016-07-28 16:26:42,176 [Worker-55] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:26:42,178 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-28 16:26:42,179 [Worker-55] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:26:42,179 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Employee_Angular\src\test\resources
+2016-07-28 16:26:50,457 [Worker-55] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:26:50,458 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-28 16:26:50,458 [Worker-55] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:26:50,459 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Employee_Angular\src\test\resources
+2016-07-28 16:26:57,015 [Worker-55] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:26:57,016 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-28 16:26:57,017 [Worker-55] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:26:57,018 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Employee_Angular\src\test\resources
+2016-07-28 16:27:12,976 [Worker-55] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:27:12,978 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-28 16:27:12,979 [Worker-55] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:27:12,980 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Employee_Angular\src\test\resources
+2016-07-28 16:27:21,647 [Worker-53] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:27:21,649 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-28 16:27:21,650 [Worker-53] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:27:21,651 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Employee_Angular\src\test\resources
+2016-07-28 16:27:31,767 [Worker-55] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:27:31,769 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-28 16:27:31,769 [Worker-55] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:27:31,770 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Employee_Angular\src\test\resources
+2016-07-28 16:29:16,560 [Worker-46] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: org.cap.demo:Employee_Angular:0.0.1-SNAPSHOT @ D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Employee_Angular\pom.xml.
+2016-07-28 16:29:17,673 [Worker-46] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:29:17,675 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-28 16:29:17,677 [Worker-46] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:29:17,677 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Employee_Angular\src\test\resources
+2016-07-28 16:29:17,678 [Worker-46] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of Employee_Angular
+2016-07-28 16:29:17,678 [Worker-46] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for Employee_Angular
+2016-07-28 16:29:17,681 [Worker-46] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:29:18,048 [Worker-47] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:29:18,050 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-28 16:29:18,051 [Worker-47] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:29:18,052 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Employee_Angular\src\test\resources
+2016-07-28 16:29:50,383 [Worker-56] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:29:50,385 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-28 16:29:50,386 [Worker-56] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:29:50,386 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Employee_Angular\src\test\resources
+2016-07-28 16:30:23,862 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:30:23,864 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-28 16:30:23,865 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:30:23,866 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Employee_Angular\src\test\resources
+2016-07-28 16:30:32,011 [Worker-55] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:30:32,012 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-28 16:30:32,013 [Worker-55] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:30:32,014 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Employee_Angular\src\test\resources
+2016-07-28 16:30:34,276 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:30:34,277 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-28 16:30:34,278 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:30:34,278 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Employee_Angular\src\test\resources
+2016-07-28 16:30:58,193 [Worker-48] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:30:58,195 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-28 16:30:58,196 [Worker-48] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:30:58,197 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Employee_Angular\src\test\resources
+2016-07-28 16:30:59,293 [Worker-53] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:30:59,294 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-28 16:30:59,297 [Worker-53] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:30:59,298 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Employee_Angular\src\test\resources
+2016-07-28 16:31:19,232 [Worker-56] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:31:19,234 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-28 16:31:19,235 [Worker-56] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:31:19,236 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Employee_Angular\src\test\resources
+2016-07-28 16:31:37,252 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:31:37,253 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-28 16:31:37,254 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:31:37,254 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Employee_Angular\src\test\resources
+2016-07-28 16:33:19,317 [Worker-48] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:33:19,319 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-28 16:33:19,320 [Worker-48] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:33:19,320 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Employee_Angular\src\test\resources
+2016-07-28 16:33:25,593 [Worker-48] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:33:25,594 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-28 16:33:25,595 [Worker-48] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:33:25,596 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Employee_Angular\src\test\resources
+2016-07-28 16:33:37,352 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:33:37,353 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-28 16:33:37,354 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:33:37,355 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Employee_Angular\src\test\resources
+2016-07-28 16:34:40,724 [Worker-58] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:34:40,726 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-28 16:34:40,726 [Worker-58] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:34:40,728 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Employee_Angular\src\test\resources
+2016-07-28 16:35:00,131 [Worker-58] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:35:00,132 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-28 16:35:00,132 [Worker-58] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:35:00,133 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Employee_Angular\src\test\resources
+2016-07-28 16:35:07,069 [Worker-58] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:35:07,070 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-28 16:35:07,072 [Worker-58] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:35:07,073 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Employee_Angular\src\test\resources
+2016-07-28 16:35:22,973 [Worker-58] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:35:22,974 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-28 16:35:22,975 [Worker-58] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:35:22,976 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Employee_Angular\src\test\resources
+2016-07-28 16:35:27,428 [Worker-53] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:35:27,430 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-28 16:35:27,431 [Worker-53] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:35:27,433 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Employee_Angular\src\test\resources
+2016-07-28 16:35:44,033 [Worker-58] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:35:44,035 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-28 16:35:44,036 [Worker-58] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:35:44,038 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Employee_Angular\src\test\resources
+2016-07-28 16:35:52,308 [Worker-58] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:35:52,309 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-28 16:35:52,310 [Worker-58] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:35:52,311 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Employee_Angular\src\test\resources
+2016-07-28 16:36:01,066 [Worker-58] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:36:01,067 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-28 16:36:01,067 [Worker-58] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:36:01,068 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Employee_Angular\src\test\resources
+2016-07-28 16:37:36,104 [Worker-57] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:37:36,263 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-28 16:37:36,265 [Worker-57] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:37:36,271 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Employee_Angular\src\test\resources
+2016-07-28 16:37:37,455 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:37:37,457 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-28 16:37:37,458 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:37:37,460 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Employee_Angular\src\test\resources
+2016-07-28 16:37:51,364 [Worker-57] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:37:51,366 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-28 16:37:51,366 [Worker-57] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:37:51,367 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Employee_Angular\src\test\resources
+2016-07-28 16:39:15,416 [Worker-48] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:39:15,418 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-28 16:39:15,419 [Worker-48] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:39:15,421 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Employee_Angular\src\test\resources
+2016-07-28 16:39:26,128 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:39:26,130 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-28 16:39:26,132 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:39:26,133 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Employee_Angular\src\test\resources
+2016-07-28 16:39:38,731 [Worker-57] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:39:38,732 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-28 16:39:38,733 [Worker-57] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:39:38,735 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Employee_Angular\src\test\resources
+2016-07-28 16:39:45,538 [Worker-57] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:39:45,540 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-28 16:39:45,541 [Worker-57] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:39:45,542 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Employee_Angular\src\test\resources
+2016-07-28 16:39:48,797 [Worker-48] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:39:48,799 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-28 16:39:48,800 [Worker-48] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:39:48,801 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Employee_Angular\src\test\resources
+2016-07-28 16:40:06,982 [Worker-59] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:40:06,984 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-28 16:40:06,985 [Worker-59] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:40:06,987 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Employee_Angular\src\test\resources
+2016-07-28 16:40:31,502 [Worker-53] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:40:31,504 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-28 16:40:31,505 [Worker-53] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:40:31,506 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Employee_Angular\src\test\resources
+2016-07-28 16:40:37,409 [Worker-58] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:40:37,411 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-28 16:40:37,412 [Worker-58] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:40:37,413 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Employee_Angular\src\test\resources
+2016-07-28 16:41:02,643 [Worker-53] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:41:02,645 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-28 16:41:02,646 [Worker-53] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:41:02,647 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Employee_Angular\src\test\resources
+2016-07-28 16:41:17,458 [Worker-58] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:41:17,460 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-28 16:41:17,461 [Worker-58] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:41:17,463 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Employee_Angular\src\test\resources
+2016-07-28 16:41:39,395 [Worker-60] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:41:39,397 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-28 16:41:39,398 [Worker-60] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:41:39,399 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Employee_Angular\src\test\resources
+2016-07-28 16:41:53,383 [Worker-57] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:41:53,385 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-28 16:41:53,387 [Worker-57] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:41:53,389 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Employee_Angular\src\test\resources
+2016-07-28 16:42:39,728 [Worker-58] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:42:39,731 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-28 16:42:39,732 [Worker-58] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-28 16:42:39,732 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\vidavid\Training\2016\FLP_PUNE_ANG_28_jul_to_1_Aug\demo\Employee_Angular\src\test\resources

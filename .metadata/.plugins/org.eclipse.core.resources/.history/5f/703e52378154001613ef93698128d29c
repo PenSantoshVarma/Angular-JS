@@ -1,0 +1,8 @@
+app.controller('myCtrl',function($scope){
+		$scope.msg='HelloWorld! Welcome To Angular FrameWork.';
+	});
+
+
+app.controller('helloCtrl',function($scope){
+	$scope.msg='HelloWorld! Welcome To Angular FrameWork.';
+});
